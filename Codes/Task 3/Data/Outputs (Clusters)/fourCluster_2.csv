@@ -1,0 +1,11 @@
+Ticker,Company,Sector,Country,beta,profit_margin,pe_ratio,ev/ebita,eps,total_esg,e_esg,s_esg,g_esg,highestControversy,Cluster
+CINF,Cincinnati Financial,Financials,USA,0.643529,-0.00429,34.186916,662.834,3.21,25.62,1.82,10.97,12.83,1,2
+STZ,Constellation Brands,Consumer Staples,USA,0.984554,0.01107,522.5122,15.192,0.41,25.79,10.35,10.04,5.4,2,2
+DAL,Delta Air Lines,Industrials,USA,1.221485,0.00174,277.15384,10.178,0.13,26.13,9.52,11.46,5.15,2,2
+DXCM,Dexcom,Health Care,USA,1.159051,0.06513,251.78261,105.478,0.46,23.72,5.39,10.24,8.09,0,2
+GPN,Global Payments,Information Technology,USA,0.972445,0.00792,438.20834,10.966,0.24,19.18,1.31,10.92,6.95,2,2
+CRM,Salesforce,Information Technology,USA,1.129403,0.00918,562.04,53.822,0.25,13.18,2.34,6.39,4.46,2,2
+NOW,ServiceNow,Information Technology,USA,0.959888,0.02905,389.92554,106.952,0.94,15.73,1.41,8.39,5.94,1,2
+1299.HK,AIA Group Limited,Financials,Hong Kong,0.92,0.14304,38.854626,292.2,2.27,13.16,0.56,6.32,6.28,2,2
+0027.HK,Galaxy Entertainment Group Ltd.,Commerce & Industry,Hong Kong,0.919215,-0.030150002,164.67741,266.863,0.31,28.1,3.38,11.22,13.5,0,2
+9618.HK,JD.com,Commerce & Industry,Hong Kong,0.431112,0.00213,378.78787,15.457,0.66,27.75,8.56,10.53,8.66,2,2
